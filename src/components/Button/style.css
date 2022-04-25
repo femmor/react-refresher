@@ -1,0 +1,66 @@
+
+/* Buttons */
+
+.primary {
+  color: #fff;
+  background-color: #0074d9;
+}
+
+.primary:hover {
+  background-color: #0061a7;
+}
+
+.default {
+  color: #000;
+  background-color: #fff;
+}
+
+.default:hover {
+  background-color: #eee;
+}
+
+.secondary {
+  color: #fff;
+  background-color: #aaa;
+}
+
+.secondary:hover {
+  background-color: #999;
+}
+
+.danger {
+  color: #fff;
+  background-color: #d9534f;
+}
+
+.danger:hover {
+  background-color: #d43f3a;
+}
+
+.success {
+  color: #fff;
+  background-color: #5cb85c;
+}
+
+.success:hover {
+  background-color: #4cae4c;
+}
+
+.warning {
+  color: #fff;
+  background-color: #f0ad4e;
+}
+
+.warning:hover {
+  background-color: #eea236;
+}
+
+.outlined {
+  color: #000;
+  background-color: transparent;
+  border: 1px solid #ccc;
+}
+
+.outlined:hover {
+  background-color: #eee;
+}
