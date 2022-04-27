@@ -1,11 +1,11 @@
 import React from 'react';
-import Counter from './components/Counter';
+import UserManager from './components/UserManager';
 
 
 function App() {
   return (
     <div className="app">
-      <Counter ownerName="Emmanuel"/>
+      <UserManager />
     </div>
   );
 }

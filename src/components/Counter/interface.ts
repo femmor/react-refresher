@@ -4,4 +4,5 @@ export interface CounterProps {
 
 export interface CounterState {
   count: number;
+  users: string[];
 }
